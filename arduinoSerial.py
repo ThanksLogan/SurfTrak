@@ -1,7 +1,7 @@
 '''
-AUTHOR: Logan Foreman
+AUTHOR: Logan
 GitHub Link: https://github.com/
-RedID: 825056655
+RedID: 
 '''
 import serial.tools.list_ports
 import time 
