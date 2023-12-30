@@ -79,7 +79,8 @@ serialInst.open()
 11/30: Finished code scraper and began testing with display 
 12/3: Finished testing with display, ready to present 
 
-![image](https://github.com/ThanksLogan/SurfTrak/assets/89110766/d36eb699-8002-450c-8d7e-2f5ab33c9ae7)
+![Surf Display - CS530 Project](https://github.com/ThanksLogan/SurfTrak/assets/89110766/e7639709-0af0-4319-b302-31eb9c346478)
+
 
 # Acknowledgements:
 
